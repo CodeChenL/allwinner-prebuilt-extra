@@ -21,3 +21,4 @@ name: "Dependabot auto-merge"
 permissions:
   contents: "write"
   pull-requests: "write"
+  
