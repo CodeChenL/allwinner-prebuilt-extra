@@ -14,5 +14,7 @@ Architecture: all
 Section: admin
 Priority: optional
 Depends: ${misc:Depends},
-Description: Additional Allwinner prebuilt packages
- that are not included in Git repos.
+Description: Additional Allwinner prebuilt
+ This package provides additional Allwinner prebuilt
+ packages that are not included in Git repos.
+ This is currently an empty package.
