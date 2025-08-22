@@ -1,0 +1,3 @@
+# allwinner-prebuilt-extra is expected to contain nothing.
+# It is just used in conjunction with CI/CD.
+allwinner-prebuilt-extra: empty-binary-package
