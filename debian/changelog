@@ -1,0 +1,5 @@
+allwinner-prebuilt-extra (0.1.6) UNRELEASED; urgency=medium
+
+  * Initial packaging support
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 18 Jun 2025 10:17:29 +0000
