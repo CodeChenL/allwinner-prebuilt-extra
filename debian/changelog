@@ -1,5 +1,10 @@
-allwinner-prebuilt-extra (0.1.6) UNRELEASED; urgency=medium
+allwinner-prebuilt-extra (0.1.6) unstable; urgency=medium
 
+  [ "Radxa Computer Co., Ltd" ]
   * Initial packaging support
 
- -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 18 Jun 2025 10:17:29 +0000
+  [ Jiali Chen ]
+  * feat: add CI/CD support
+  * fix: add allwinner-prebuilt-extra
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 25 Sep 2025 08:32:42 +0000
